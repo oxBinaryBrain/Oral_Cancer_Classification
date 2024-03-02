@@ -20,7 +20,7 @@ This project aims to develop a machine learning model for detecting and classify
 3. **Model Development:** Utilize machine learning techniques, such as convolutional neural networks (CNNs), to develop a model for oral cancer detection and classification.
 
 ## File Structure
-- `oral_cancer_detection.ipynb`: Jupyter Notebook containing the Python code for data loading, preprocessing, analysis, and model development.
+- `oral_cancer_classification.ipynb`: Jupyter Notebook containing the Python code for data loading, preprocessing, analysis, and model development.
 - `requirements.txt`: File listing the required Python packages and their versions.
 - `dataset`: Directory containing the downloaded dataset from Kaggle.
 - `README.md`: This file providing an overview of the project.
