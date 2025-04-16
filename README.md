@@ -26,7 +26,7 @@ This project aims to develop a machine learning model for detecting and classify
 - `README.md`: This file providing an overview of the project.
 
 ## Contributors
-- [Uday G](https://github.com/oxBinaryBrain)
+- [UDAY G](https://github.com/oxBinaryBrain)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
